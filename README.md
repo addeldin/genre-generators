@@ -10,7 +10,7 @@ For more information about the initial context of this assignment, please read m
 
 [//]: # "* `student-generator.ipynb` is the Jupyter Notebook I made based on student-program.pdf to implement their program in code, which is in turn used for the second session of the activity"
 
-* `generator-template.ipynb` is a Jupyter Notebook template that combines Markdown and Python similarly to `student-generator.ipynb`, but includes minimal specifics for easy re-use by other instructors
+* `generator-template.ipynb` is a Jupyter Notebook template that combines Markdown and Python similarly to `student-generator.ipynb`, but includes minimal specifics for easy re-use by other instructors; any text in Markdown or Python comments between square brackets `[]` should be replaced or deleted based on the needs of the genre generator, although the entire structure of the document could readily be reworked based on those same needs and the path through the code that the instructor feels most comfortable taking
 
 ## Credit
 One detail from the *TextGenEd* introduction I want to highlight is that this activity was designed for "Digital Humanity," a course I originally co-taught with Alison Langmead. While I designed the activity for the subsequent semester, where I taught the class on my own, I would not have come up with the concept if not for what I learned during the collaborative teaching process.
