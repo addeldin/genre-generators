@@ -106,4 +106,7 @@ The final question I like to ask to reiterate the sociotechnical nature of the g
 
 * Do these generators objectively identify what their respective genres *are*, or their key features?
 
-Emphasize that, while the relatively objective functioning of the machine does produce consistent outputs based on the rules defined in the code, they no less are built on subjective decisions about what the genre is and how to represent it. As a result, *programming* is not an inherently objective means of representing the world, but one that mediates the world in consideration of technological limitations and affordances.
+## Guiding Realizations
+1. Although the computer mechanically produces new instances of the genre based on pre-defined rules, there are still subjective decisions about what a genre is and how to represent it that are embodied in the code.
+2. There is a distinction between *programming* as a conceptual process of shaping real-world things or ideas in terms that can be understood and processed by the computer, and *coding* as enacting those ideas in machine-readable language.
+3. To define something like a genre in a way that can be interpreted by a computer does not mean that this definition is the only or most correct way to understand what that genre is. By virtue of making the genre fungible to the logic of the comptuer, certain understandings of the genre were prioritized and others, de-prioritized.
