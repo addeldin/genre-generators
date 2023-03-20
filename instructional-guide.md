@@ -4,6 +4,8 @@ This activity takes place over two sequential in-class sessions. While the activ
 
 The first day of the activity should take between 50 minutes and 1 hour and 25 minutes, and the second day should take between 30 and 45 minutes. I have provided estimates for how long each part of the daily activities will take, but these may need to be adjusted based on instructors' sense of which parts students will struggle with.
 
+Please note that this guide is just that: a guide. You are welcome to change it as you see fit for your classroom, and I would in fact love to hear about anyone doing so and how they went about the activity.
+
 ## Materials and Software Required
 Instructors will need, at the most fundamental level:
 
