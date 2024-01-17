@@ -1,7 +1,7 @@
 ## Top-Level
 *Genre generators* are text generators that use basic tools for using and manipulating text with a digital computer to create new instances of a written genre. This repo contains instructional materials for instructors teaching a course that does not (necessarily) involve coding, but want to guide students through an activity that can facilitate their understanding of programming and code as *sociotechnical* practices, or practices that mediate human concepts and the world around them through the technical limitations and affordances of digital computer technology. It does so by integrating a rhetorical understanding of a written genre, the *love letter*, and implementations in code of Christopher Strachey's Love Letter Generator by Matt Sephton (https://www.gingerbeardman.com/loveletter/) and Annette Vee (https://jsfiddle.net/nettework/6f7abaaa/).
 
-For more information about the initial context of this assignment, please read my contribution to the *TextGenEd* open collection (link TK), which this repository is part of. There you will learn more about the course this activity was designed for as well as what kinds of courses this activity could be implemented into.
+For more information about the initial context of this assignment, please read my contribution to the *TextGenEd* open collection (https://wac.colostate.edu/repository/collections/textgened/rhetorical-engagements/genre-generators/), which this repository is part of. There you will learn more about the course this activity was designed for as well as what kinds of courses this activity could be implemented into.
 
 ## Contents
 * `instructional-guide.md` walks the instructor through the work in the two in-class sessions needed to perform this activity
